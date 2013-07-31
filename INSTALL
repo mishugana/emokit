@@ -33,7 +33,7 @@ Download : https://github.com/signal11/hidapi/archive/master.zip
 IT WILL NOT WORK if you downloaded from: hidapi-0.7.0.zip from https://github.com/signal11/hidapi/downloads or the command git clone git://github.com/signal11/hidapi.git
 Extract the zip file and use the following commands :
 
-unzip hidapid-master.zip
+unzip master.zip
 cd hidapid-master
 ./bootstrap
 ./configure
