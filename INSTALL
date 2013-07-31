@@ -5,7 +5,7 @@ Download : http://www.cmake.org/cmake/resources/software.html
 Go in the download folder and execute :
 
 tar xzvf cmake-2.8.10.2.tar.gz
-cd cmake-2.8.10.2.tar.gz
+cd cmake-2.8.10.2/
 ./bootstrap
 make
 sudo make install
